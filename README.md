@@ -1,6 +1,4 @@
-### kjbsdaskd
-[![GitPOAP Badge](https://gitpoap-gh-badge.herokuapp.com/badges/0x40f08300b2c2d6373b3c5a4c1c2324ca1d1d5a17)]
-
+##Aspiring MERN Stack Dev
 
 ### Github Stats:
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=volantxs&theme=dark&background=000000)](https://git.io/streak-stats)
