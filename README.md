@@ -1,5 +1,6 @@
 ## This is Sarika
-![Github Gist stars](https://img.shields.io/github/gist/stars/:volantxs)
+![X (formerly Twitter) URL](https://img.shields.io/twitter/volantxs)
+
 
 ### Github Stats:
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=volantxs&theme=dark&background=000000)](https://git.io/streak-stats)
