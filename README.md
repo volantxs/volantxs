@@ -5,7 +5,7 @@ Exporerf
 
 <div align=center>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=volantxs&theme=dark&background=000000)](https://git.io/streak-stats)<img src="https://cdnb.artstation.com/p/assets/images/images/050/950/883/original/vitalik-egorov-enemy3attack.gif?1656158639" width="500" height="200" />
+<img src="https://cdnb.artstation.com/p/assets/images/images/050/950/883/original/vitalik-egorov-enemy3attack.gif?1656158639" width="500" height="200" />
 
 ---
 <div>
@@ -33,12 +33,12 @@ Exporerf
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
-  
-
 </div>
 
 ## Holopin Earned Badges
 [![An image of @volantxs's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/volantxs)](https://holopin.io/@volantxs)
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=volantxs&theme=dark&background=000000)](https://git.io/streak-stats)
 
 <img src="https://komarev.com/ghpvc/?username=volantxs&style=flat-square&color=blue" alt=""/>
 
