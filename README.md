@@ -1,5 +1,5 @@
 ## This is Sarika
-![X (formerly Twitter) URL](https://img.shields.io/twitter/volantxs)
+![X (formerly Twitter) URL](https://img.shields.io/twitter/https://twitter.com/volantxs)
 
 
 ### Github Stats:
