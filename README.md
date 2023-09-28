@@ -1,5 +1,5 @@
 ### kjbsdaskd
-[![GitPOAP Badge]([https://www.gitpoap.io/gh/gitpoap/gitpoap-docs](https://gitpoap-gh-badge.herokuapp.com/badges/volantxs))
+[![GitPOAP Badge](https://gitpoap-gh-badge.herokuapp.com/badges/volantxs)]
 
 
 ### Github Stats:
