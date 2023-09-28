@@ -1,4 +1,5 @@
-##Aspiring MERN Stack Dev
+## This is Sarika
+![Github Gist stars](https://img.shields.io/github/gist/stars/:volantxs)
 
 ### Github Stats:
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=volantxs&theme=dark&background=000000)](https://git.io/streak-stats)
