@@ -1,6 +1,6 @@
 # Hi, this is _Sarika_ :face_in_clouds:
 
-- Masters' Degree in Chemistry:star2: from IIT Delhi'23 
+### Masters' Degree in Chemistry:star2: from IIT Delhi'23 
   - 
   - Specialization in high-throughput computing (HTC) for optoelectronics of photoactive materials using density functional theory (DFT)
   - Thesis topic: **"Composition Dependent Strain Engineering of Lead-Free Halide Double Perovskite: Computational Insights"**
@@ -11,7 +11,7 @@
   
 ---
           
-- [LIBREPO](https://librepo-erevald.web.app/) came in top 50:zap:out of 17k+ projects in Buildspace's Nights&Weekends S4
+### [LIBREPO](https://librepo-erevald.web.app/) came in top 50:zap:out of 17k+ projects in Buildspace's Nights&Weekends S4
   - 
 
 
@@ -53,7 +53,6 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=volantxs&theme=dark&background=000000)](https://git.io/streak-stats)
 
-![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
 
 <img src="https://komarev.com/ghpvc/?username=volantxs&style=flat-square&color=blue" alt=""/>
 
