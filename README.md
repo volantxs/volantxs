@@ -23,7 +23,7 @@
   - Demo day video for the project is on [<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" width="65">](https://youtu.be/nc3T0bGvXwc) 
   - Customized project outlook spread out to 175k+ viewers of Buildspace is [here](https://buildspace.so/s4/demoday/Librepo)
 
-#### :bulb:1st Runner-up in Digital India Hackathon by IBC Media
+#### :bulb:1st Runner-up in Digital India Alt Hack by IBC Media
 ---
 ## Tech-Belt
 
