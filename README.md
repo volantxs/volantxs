@@ -20,7 +20,7 @@
           
 #### :zap:Librepo came in top 50 out of 17k+ projects in Nights&Weekends S4
   - [Gamified library](https://librepo-erevald.web.app/) that gives readers' theme-based XP on completing book quests and fun elemental analysis
-  - Demo day video for the project can be watched [here](https://youtu.be/nc3T0bGvXwc)
+  - Demo day video for the project is on [<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" width="65">](https://youtu.be/nc3T0bGvXwc) 
   - Customized project outlook spread out to 175k+ viewers of Buildspace is [here](https://buildspace.so/s4/demoday/Librepo)
 
 #### :bulb:1st Runner-up in Digital India Hackathon by IBC Media
@@ -41,11 +41,13 @@
 | Operating system | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>  <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" /> |
 | Package Manager | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg"   width="40" height="40" />|
 </div>
+
 <details>
   <summary><h2>Github Stats</h2></summary>
+<div align=center>
+<img height="200em" src="https://github-readme-stats.vercel.app/api?username=Volantxs&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
   
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=volantxs&theme=dark&background=000000)](https://git.io/streak-stats)
-<img theme=dark height="200em" src="https://github-readme-stats.vercel.app/api?username=Volantxs&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+</div>
 </details>
 <details open>
   <summary><h2>Holopin Badges</h2></summary>
