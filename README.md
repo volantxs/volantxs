@@ -1,9 +1,8 @@
 # Hi, this is _Sarika_ :face_in_clouds:
 
-### Masters' Degree in Chemistry:star2: from IIT Delhi'23 
-  - 
-  - Specialization in high-throughput computing (HTC) for optoelectronics of photoactive materials using density functional theory (DFT)
-  - Thesis topic: **"Composition Dependent Strain Engineering of Lead-Free Halide Double Perovskite: Computational Insights"**
+#### Masters' Degree in Chemistry:star2: from IIT Delhi'23 
+- Specialization in high-throughput computing (HTC) for optoelectronics of photoactive materials using density functional theory (DFT)
+- Thesis topic: **"Composition Dependent Strain Engineering of Lead-Free Halide Double Perovskite: Computational Insights"**
   <div align=center>
     <br>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>  <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /> <img width="40" height="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
