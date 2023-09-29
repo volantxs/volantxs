@@ -24,7 +24,7 @@
   - Customized project outlook spread out to 175k+ viewers of Buildspace is [here](https://buildspace.so/s4/demoday/Librepo)
 
 #### :bulb:1st Runner-up in Digital India Hackathon by IBC Media
-
+---
 ## Tech-Belt
 
 <div align=center>
@@ -49,7 +49,7 @@
   
 </div>
 </details>
-<details open>
+<details>
   <summary><h2>Holopin Badges</h2></summary>
   
 [![An image of @volantxs's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/volantxs)](https://holopin.io/@volantxs)
