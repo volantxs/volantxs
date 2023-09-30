@@ -49,7 +49,7 @@
   
 </div>
 </details>
-<details>
+<details open>
   <summary><h2>Holopin Badges</h2></summary>
   
 [![An image of @volantxs's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/volantxs)](https://holopin.io/@volantxs)
