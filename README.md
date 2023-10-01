@@ -26,7 +26,7 @@
 - Thesis topic: "Composition Dependent Strain Engineering of Lead-Free Halide Double Perovskite: Computational Insights"
 </details>
 
-<details>
+<details open>
   <summary><h4>:zap:Librepo came in top 50 out of 17k+ projects in Nights&Weekends S4</h4></summary>
 
   - [Gamified library](https://librepo-erevald.web.app/) that gives readers' theme-based XP on completing book quests and fun elemental analysis
