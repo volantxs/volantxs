@@ -13,17 +13,30 @@
   </a>  
 </div>
 
+<details open>
+  <summary><h4>:money_with_wings:Web3 Writer</h4></summary>
+  
+  - Is NFT's Rebound Due Till the Next Bull, Or Not? | [Medium](https://medium.com/@sarasingh4444/is-nfts-rebound-due-till-the-next-bull-or-not-50ba6dcc007b)
+</details>
 
-#### :star2:Master's Degree in Chemistry from IIT Delhi'23 
+<details open>
+  <summary><h4>:star2:Master's Degree in Chemistry from IIT Delhi'23 </h4></summary>
+  
 - Specialization in high-throughput computing (HTC) for optoelectronics of photoactive materials
 - Thesis topic: "Composition Dependent Strain Engineering of Lead-Free Halide Double Perovskite: Computational Insights"
-          
-#### :zap:Librepo came in top 50 out of 17k+ projects in Nights&Weekends S4
+</details>
+
+<details>
+  <summary><h4>:zap:Librepo came in top 50 out of 17k+ projects in Nights&Weekends S4</h4></summary>
+
   - [Gamified library](https://librepo-erevald.web.app/) that gives readers' theme-based XP on completing book quests and fun elemental analysis
   - Demo day video for the project is on [<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" width="65">](https://youtu.be/nc3T0bGvXwc) 
   - Customized project outlook spread out to 175k+ viewers of Buildspace is [here](https://buildspace.so/s4/demoday/Librepo)
+</details>       
+<details>
+  <summary><h4>:bulb:Altru, a decentralized donation platform, won 1st Runner-up place in Digital India Alt Hack by IBC Media</h4></summary>
+</details>
 
-#### :bulb:1st Runner-up in Digital India Alt Hack by IBC Media
 ---
 ## Tech-Belt
 
@@ -31,7 +44,7 @@
   
   | Category | Equipped Tools |
 | --- | --- |
-| Programming Language |  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="50" height="50"/>&nbsp;  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="50" height="50"/>&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="50" height="50"/>&nbsp; <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /> |
+| Programming Language |  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="50" height="50"/>&nbsp;  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="50" height="50"/>&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="50" height="50"/>&nbsp; |
 | Framework | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" height="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="50" height="50"/> |
 | Library | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" alt="React" width="50" height="50"/>&nbsp;  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="50" height="50"/>&nbsp;  | 
 | Backend-as-a-Service | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" title="Firebase" alt="Firebase" width="50" height="50"/>&nbsp; |
