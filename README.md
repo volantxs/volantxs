@@ -5,7 +5,7 @@
   <a href="https://www.linkedin.com/in/sarikasingh7/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-    <a href="https://lnk.at/volantxs">
+    <a href="https://lnk.at/sarika">
     <img src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white"  />
   </a>  
   <a href="https://twitter.com/volantxs">
