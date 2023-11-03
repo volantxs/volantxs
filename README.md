@@ -17,14 +17,11 @@
   <summary><h4>:money_with_wings:Web3 Writer</h4></summary>
   
   - Is NFT's Rebound Due Till the Next Bull, Or Not? | [Medium](https://medium.com/@sarasingh4444/is-nfts-rebound-due-till-the-next-bull-or-not-50ba6dcc007b)
+  - Solving Frictions in Blockchain: A Throwback | [Medium](https://medium.com/@volantxs/solving-frictions-in-blockchain-a-throwback-c93b95fedc11)
+  - How to use Bitquery Explorer and API for Cryptocurrency Data Analysis (ft. Jupyter Notebook) | [Medium](https://medium.com/@volantxs/how-to-use-bitquery-explorer-and-api-for-cryptocurrency-data-analysis-ft-jupyter-notebook-1085c2f63f96)
 </details>
 
-<details open>
-  <summary><h4>:star2:Master's Degree in Chemistry from IIT Delhi'23 </h4></summary>
-  
-- Specialization in high-throughput computing (HTC) for optoelectronics of photoactive materials
-- Thesis topic: "Composition Dependent Strain Engineering of Lead-Free Halide Double Perovskite: Computational Insights"
-</details>
+
 
 <details open>
   <summary><h4>:zap:Librepo came in top 50 out of 17k+ projects in Nights&Weekends S4</h4></summary>
@@ -32,7 +29,14 @@
   - [Gamified library](https://librepo-erevald.web.app/) that gives readers' theme-based XP on completing book quests and fun elemental analysis
   - Demo day video for the project is on [<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" width="65">](https://youtu.be/nc3T0bGvXwc) 
   - Customized project outlook spread out to 175k+ viewers of Buildspace is [here](https://buildspace.so/s4/demoday/Librepo)
-</details>       
+</details>   
+
+<details open>
+  <summary><h4>:star2:Master's Degree in Chemistry from IIT Delhi'23 </h4></summary>
+  
+- Specialization in high-throughput computing (HTC) for optoelectronics of photoactive materials
+- Thesis topic: "Composition Dependent Strain Engineering of Lead-Free Halide Double Perovskite: Computational Insights"
+</details>
 <details>
   <summary><h4>:bulb:Altru, a decentralized donation platform, won 1st Runner-up place in Digital India Alt Hack by IBC Media</h4></summary>
 </details>
